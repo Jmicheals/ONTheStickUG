@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://onthestickug.netlify.app/sitemap.xml
